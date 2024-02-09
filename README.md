@@ -1,3 +1,10 @@
+<a alt="Follow me on Qiita" href="https://qiita.com/chima91">
+  <img src="https://img.shields.io/badge/Follow%20me%20on-Qiita-00ca00.svg">
+</a>
+<a alt="Follow me on Zenn" href="https://zenn.dev/web_chima">
+  <img src="https://img.shields.io/badge/Follow%20me%20on-Zenn-00bfff.svg">
+</a>
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chima91&theme=2077)
 [![trophy](https://github-profile-trophy.vercel.app/?username=chima91&theme=onedark)](https://github-profile-trophy.vercel.app/?username=chima91&theme=tokyonight)
 <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chima91&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
